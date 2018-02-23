@@ -1,0 +1,2 @@
+class Gomoku < ApplicationRecord
+end

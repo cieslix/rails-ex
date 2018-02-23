@@ -1,0 +1,2 @@
+module GomokusHelper
+end
