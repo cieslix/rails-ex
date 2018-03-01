@@ -13,7 +13,7 @@
 
   <div class="field">
     <%= form.label :data %>
-    <%= form.text_area :data, id: :gomoku_data %>
+    <%= form.text_area :data, id: :gomoku_data, 'data-id' => @gomoku.id %>
   </div>
 
   <div class="actions">
